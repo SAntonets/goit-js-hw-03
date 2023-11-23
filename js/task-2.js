@@ -10,8 +10,8 @@ function makeArray(firstArray, secondArray, maxLength) {
     }
   
 
-// повертаємо об'єднаний масив    
-return unitedArray
+    // повертаємо об'єднаний масив    
+    return unitedArray
 }
 
 // console.log(makeArray(["Mango", "Poly"], ["Ajax", "Chelsea"], 3)); // ["Mango", "Poly", "Ajax"]
